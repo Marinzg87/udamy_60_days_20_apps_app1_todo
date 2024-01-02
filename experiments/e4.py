@@ -8,7 +8,8 @@ while True:
         case 'add':
             todo = input("Enter a todo: ")
             todos.append(todo)
-        case 'show':
+        # multiple option for one case
+        case 'show' | 'display':
             for item in todos:
                 print(item)
         case 'exit':

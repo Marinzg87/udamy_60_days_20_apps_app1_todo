@@ -13,5 +13,8 @@ while True:
                 print(item)
         case 'exit':
             break
+        # user input didn't match to match cases
+        case _:
+            print("Hey, you entered an unknown command")
 
 print('Bye!')
