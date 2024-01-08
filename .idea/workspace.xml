@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ab44c8d-2904-4471-9b15-e83dfcdffb0e" name="Changes" comment="Continuation Day_1 App_1 - toDos">
+    <list default="true" id="3ab44c8d-2904-4471-9b15-e83dfcdffb0e" name="Changes" comment="Day_3 App_1 ToDos - end the day 3. While and for loops, match case.">
+      <change afterPath="$PROJECT_DIR$/bonuses/bonus4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bugFixingExercises/bugFixingExercise4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bugFixingExercises/bugFixingExercise4.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +40,146 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.bonus2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bugFixingExercise2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bugFixingExercise2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bugFixingExercise2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bugFixingExercise3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bugFixingExercise3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bugFixingExercise3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bugFixingExercise4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bugFixingExercise4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.e5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise2.4.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bonuses" />
+      <recent name="$PROJECT_DIR$/bugFixingExercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bugFixingExercise4.2">
+    <configuration name="bonus4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="toDoApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bonuses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bonuses/bonus4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bugFixingExercise3.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="toDoApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bugFixingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bugFixingExercises/bugFixingExercise3.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bugFixingExercise3.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="toDoApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bugFixingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bugFixingExercises/bugFixingExercise3.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bugFixingExercise4.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="toDoApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bugFixingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bugFixingExercises/bugFixingExercise4.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bugFixingExercise4.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="toDoApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bugFixingExercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bugFixingExercises/bugFixingExercise4.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="toDoApp" />
       <option name="ENV_FILES" value="" />
@@ -65,6 +202,15 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bugFixingExercise4.2" />
+        <item itemvalue="Python.bugFixingExercise4.1" />
+        <item itemvalue="Python.bugFixingExercise3.3" />
+        <item itemvalue="Python.bugFixingExercise3.2" />
+        <item itemvalue="Python.bonus4" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -82,6 +228,48 @@
       <option name="presentableId" value="Default" />
       <updated>1703977260782</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day_2 App_1 ToDos - while loop">
+      <option name="closed" value="true" />
+      <created>1704197631230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704197631230</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day_3 App_1 ToDos - for loop, match case">
+      <option name="closed" value="true" />
+      <created>1704204998960</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704204998960</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Day_3 App_1 ToDos - end the day 3. While and for loops, match case.">
+      <option name="closed" value="true" />
+      <created>1704239949827</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704239949827</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day_2 App_1 ToDos - while loop" />
+    <MESSAGE value="Day_3 App_1 ToDos - for loop, match case" />
+    <MESSAGE value="Day_3 App_1 ToDos - end the day 3. While and for loops, match case." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day_3 App_1 ToDos - end the day 3. While and for loops, match case." />
   </component>
 </project>
